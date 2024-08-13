@@ -1,2 +1,2 @@
 # chess-jaymark
- my first 1
+ my first activity
